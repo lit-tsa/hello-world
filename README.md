@@ -2,7 +2,7 @@
 
 Hello world repo for Git tutorial.
 
-This repo si built step by step in this tutorial.
+This repo is built step by step in this tutorial.
 
 it now includes steps for github.
 
